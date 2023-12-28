@@ -1,2 +1,2 @@
-#comments must be written in a script fore best practices
+#comments must be written in a script for best practices
 
